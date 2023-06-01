@@ -182,9 +182,11 @@
 
     .search_input{
         display: none;
+        pointer-events: visible;
     }
     .search_box{
         background-color: white  !important;
+        
     }
 
     .height_right_2 > .nav_link, .right_nav_text{

@@ -15,8 +15,9 @@
 }
 
 .profile_header{
-    background-image:url("back.jpg");
-    height:70px;
+    background-image:url("/Images/back.jpg");
+    height: 70px;
+    width: auto;
 }
 
 .sidebar_first_col > .profile_info{
