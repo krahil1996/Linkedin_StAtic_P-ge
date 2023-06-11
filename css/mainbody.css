@@ -21,14 +21,14 @@
 
 }
 
-/* .sidebar{
+.sidebar{
     border:none;
     background-color: #e9e5df;
 }
 .activity{
     padding:0px;
     border:none;
-} */
+}
 
 .sidebar{
     display:grid;
